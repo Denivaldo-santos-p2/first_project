@@ -1,0 +1,2 @@
+arquivo criado junto com outros para testar o .gitignore,
+algunso arqivos ignorados, esse deve ser commitado.
