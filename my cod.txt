@@ -1,2 +1,3 @@
 hello, my name is denivaldo,
 first modification of this project
+testing the git diff, git digg --staged and git difftool
